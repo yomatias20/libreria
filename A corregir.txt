@@ -1,2 +1,0 @@
-Respetar capas (no llamar a repositorios desde controlador sino desde servicio).
-Desde un servicio solo se puede llamar a su repositorio, no a otros.
